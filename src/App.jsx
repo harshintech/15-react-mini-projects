@@ -2,7 +2,7 @@ import React from "react";
 import Accordian from "./components/1.Accordian";
 import RandomColor from "./components/2.Random-Color";
 import StarRating from "./components/3.Star-Rating";
-import ImageSlider from "./components/4.image-slider";
+import ImageSlider from "./components/4.Image-slider";
 import LoadMoreData from "./components/5.Load-More-Data";
 import TreeView from "./components/6.Tree-View";
 import menus from "./components/6.Tree-View/data";
