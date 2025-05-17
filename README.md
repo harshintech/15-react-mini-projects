@@ -1,12 +1,50 @@
-# React + Vite
+# 15 React Mini Projects 🚀
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This repository contains **15 mini projects built with React** using the **Vite** build tool. Each project is focused on building small, functional, and reusable components to strengthen your React skills.
 
-Currently, two official plugins are available:
+> ⚠️ **Note**: This project is currently optimized for desktop only. Mobile responsiveness has **not** been implemented.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🔧 Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- ⚛️ React
+- ⚡ Vite
+- 🧱 CSS (basic styling per component)
+- 📦 npm
+
+---
+
+## 📁 Project List
+
+| #  | Project Name                    | Folder Path                            |
+|----|----------------------------------|----------------------------------------|
+| 0  | Intro Component                  | `/components/0.Intro`                  |
+| 1  | Accordion                        | `/components/1.Accordian`              |
+| 2  | Random Color Generator           | `/components/2.Random-Color`           |
+| 3  | Star Rating                      | `/components/3.Star-Rating`            |
+| 4  | Image Slider                     | `/components/4.Image-slider`           |
+| 5  | Load More Data                   | `/components/5.Load-More-Data`         |
+| 6  | Tree View                        | `/components/6.Tree-View`              |
+| 7  | QR Code Generator                | `/components/7.QR-Code-Generator`      |
+| 8  | Light/Dark Mode Toggle           | `/components/8.Light-Dark-Mode`        |
+| 9  | Scroll Indicator                 | `/components/9.Scroll-Indicator`       |
+| 10 | Custom Tabs                      | `/components/10.CustomTabs`            |
+| 11 | Custom Modal Popup               | `/components/11.Custom-Modal-Popup`    |
+| 12 | GitHub Profile Finder            | `/components/12.Github-Profile-Finder` |
+| 13 | Search Auto Complete (API)       | `/components/13.Search-Auto-Complete-With-Api` |
+| 14 | Tic Tac Toe                      | `/components/14.tic-tac-toe`           |
+| 15 | Password Generator               | `/components/15.PasswordGenerator`     |
+
+---
+
+## 📦 Installation
+
+1. **Clone the repository**
+
+```bash
+git clone https://github.com/harshintech/15-react-mini-projects.git
+cd 15-react-mini-projects
+npm install
+npm run dev
+
